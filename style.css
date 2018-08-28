@@ -42,7 +42,8 @@ body {
 
 .address_widget {
   top: 294px;
-  letter-spacing: 0.08em;
+  /* Make that long ass HypeCoin Prefix fit */
+  letter-spacing: 0.04em; 
 }
 
 .instruction-text {
